@@ -22,6 +22,13 @@ To run bizcard.py (your_filename.py) using streamlit, type in the terminal (work
 
 Local URL: http://localhost:8501 Network URL: http://192.168.0.106:8501
 
+Input:
+clone the repository in your local machine using the command:
+https://github.com/your-github-username/BizCardX.git
+                      or
+create a new repository and upload the following images which is present in the below link in your respective repository;
+https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp
+
 Output:
 
 ![Capture4](https://github.com/sowbh/BizCardX/assets/95527211/3a0dc59f-92eb-4409-bed0-149db6cacb31)
