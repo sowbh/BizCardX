@@ -18,7 +18,8 @@ Approach:
 
 Run this code in the environment such as vscode, after installing the necessary libraries required in this project.
 
-To run bizcard.py (your_filename.py) using streamlit, type in the terminal (works only in vscode): Streamlit run bizcard.py (your_filename.py) You can now view your Streamlit app in your browser.
+First run bizcard.ipynb(your_filename.ipynb) in jupyter notebook or google-colab. main.py scripy will be generated.
+To run main.py (your_filename.py) using streamlit, type in the terminal (works only in vscode): Streamlit run main.py (your_filename.py) You can now view your Streamlit app in your browser.
 
 Local URL: http://localhost:8501 Network URL: http://192.168.0.106:8501
 
@@ -31,10 +32,13 @@ https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp
 
 Output:
 
-![Capture4](https://github.com/sowbh/BizCardX/assets/95527211/3a0dc59f-92eb-4409-bed0-149db6cacb31)
+![Capture4](https://github.com/sowbh/BizCardX/assets/95527211/1dfac6df-1a1f-4dc1-9a8c-a3c32163f0ae)
 
-![Capture5](https://github.com/sowbh/BizCardX/assets/95527211/75d8fbc5-27b2-4220-8ba9-f98474de1c15)
+![Capture5](https://github.com/sowbh/BizCardX/assets/95527211/d3d39ea9-8b8c-4774-9fac-58d1510ef0fd)
 
-![Capture6](https://github.com/sowbh/BizCardX/assets/95527211/3ca7fad9-7d26-4f53-987f-f7ef22c09328)
+![Capture6](https://github.com/sowbh/BizCardX/assets/95527211/a2248169-51f5-4219-8c79-3a77cfd8d987)
 
-![Capture7](https://github.com/sowbh/BizCardX/assets/95527211/090644cb-5fff-46ac-bf36-7830106de520)
+![Capture7](https://github.com/sowbh/BizCardX/assets/95527211/20ec2882-8b19-4ae4-a4c5-952f8f476963)
+
+All the saved data:
+![Capture8](https://github.com/sowbh/BizCardX/assets/95527211/0ab2b614-e912-4775-9692-0ce6dc975926)
