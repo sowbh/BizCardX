@@ -16,6 +16,8 @@ Approach:
 5. Implement database integration: Use a database management system like SQLite or MySQL to store the extracted information along with the uploaded business card image. You can use SQL queries to create tables, insert data, and retrieve data from the database, Update the data and Allow the user to delete the data through the streamlit UI.
 6. Test the application: Test the application thoroughly to ensure that it works as expected. You can run the application on your local machine by running the command streamlit run app.py in the terminal, where app.py is the name of your Streamlit application file.
 
+Here, for storing the data we have used an alternative of mysql workbench ie; sqlite3. To view the database file; i.kindly install DB Browser for SQLite ii.download the business_card.db from the notebook and copy to your respective project directory iii.click on open database and select the db file(business_card.db) iv.click on browse data to see all 6 tables present in the db file(business_card.db).
+
 Run this code in the environment such as vscode, after installing the necessary libraries required in this project.
 
 First run bizcard.ipynb(your_filename.ipynb) in jupyter notebook or google-colab. main.py scripy will be generated.
